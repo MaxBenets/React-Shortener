@@ -1,0 +1,20 @@
+.socialMedia{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.item{
+    display: block;
+    text-decoration: none;
+    margin: 5px;
+}
+.item img{
+    transition: 0.2s;
+    width: 50px;
+    opacity: 0.8;
+}
+.item img:hover{
+    opacity: 1;
+    transform: scale(1.2);
+}

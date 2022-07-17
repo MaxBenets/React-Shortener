@@ -1,0 +1,18 @@
+.input{
+    margin-top: 10px;
+    position: relative;
+    display: flex;
+}
+.url{
+    background: rgb(60, 68, 83);
+    color: #eee;
+}
+.btn{
+    flex: 1;
+    background: #ED8702;
+    border: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
